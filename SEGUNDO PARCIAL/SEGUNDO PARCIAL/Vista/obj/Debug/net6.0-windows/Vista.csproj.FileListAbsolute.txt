@@ -1,0 +1,93 @@
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.FrmBacklog.resources
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.Properties.Resources.resources
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\lauta\Desktop\Nueva carpeta (2)\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\Segundo.Parcial.Series.Cascara\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.FrmBacklog.resources
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\asd\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.FrmBacklog.resources
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\nicol\OneDrive\Escritorio\aaaaaaaaa\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.FrmBacklog.resources
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.Properties.Resources.resources
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\nicol\laboratorio_2_Parcial2\Nicolas.Scrofani.A323\Nicolas.Scrofani.A323\Segundo.Parcial.Series.Cascara\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
